@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Discussion Schedule
 uid: 27b475ff-e089-aa88-09d8-65a0341aa2a5
 ---
@@ -71,7 +74,7 @@ Hexter, J. H. "[Fernand Braudel and the Monde Braudellien...](http://www.jstor.o
 {{< tdopen >}}
 
 
-18th c. Political Culture and 21st c. Digital Humanities
+18{{< sup "th" >}} c. Political Culture and 21{{< sup "st" >}} c. Digital Humanities
 
 _Guest: [Prof. Jeff Ravel](https://history.mit.edu/people/jeffrey-s-ravel), MIT History Department_
 

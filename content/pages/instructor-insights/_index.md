@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 30ee943b-ced5-bffc-7aa8-1853fe1331ed
 ---
@@ -64,20 +66,6 @@ _21H.991 Theories and Methods in the Study of History_ can be applied toward a D
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Nine black chairs arranged around a wooden oval-shaped table. The table is positioned in the middle of the room; a white screen on one wall; two small green chalkboards are hung on the walls; there is a window on the wall to the right of the table.]({{< resource_file 071992b8-6595-c479-517c-8c53515e74c0 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Class sessions were held in a room with seminar seating, small chalkboards, and a projector screen.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

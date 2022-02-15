@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 30ee943b-ced5-bffc-7aa8-1853fe1331ed
 title: Teaching Students how to be Scholars
 uid: 14fa2451-e10b-a6b3-0aba-adfbf955056f
