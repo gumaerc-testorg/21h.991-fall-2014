@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Discussion Schedule
 parent_type: CourseSection
+parent_uid: 27b475ff-e089-aa88-09d8-65a0341aa2a5
 resourcetype: Document
 title: Environmental History Discussion Questions by Anya Zilberstein
 uid: ebe77c76-b203-6b7d-acdb-5a3631e741c4

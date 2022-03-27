@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Discussion Schedule
 parent_type: CourseSection
+parent_uid: 27b475ff-e089-aa88-09d8-65a0341aa2a5
 resourcetype: Document
 title: 'The Role of Firms in Industrial Standards Setting: Participation, Process,
   and Balance'
