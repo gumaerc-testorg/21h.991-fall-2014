@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: 30ee943b-ced5-bffc-7aa8-1853fe1331ed
 ---
@@ -48,9 +49,9 @@ Instructor Insights
 
 _In the following pages, Prof. Anne McCants, describes various aspects of how she taught _21H.991 Theories and Methods in the Study of History_._
 
-*   [Engaging Students in Archive-based Research]({{< baseurl >}}/pages/instructor-insights/engaging-students-in-archive-based-research)
-*   [Infusing the Course with Multiple Voices]({{< baseurl >}}/pages/instructor-insights/infusing-the-course-with-multiple-voices)
-*   [Teaching Students how to be Scholars]({{< baseurl >}}/pages/instructor-insights/teaching-students-how-to-be-scholars)
+*   {{< resource_link f3c30597-e98a-7413-ca9f-bcc66290f930 "Engaging Students in Archive-based Research" >}}
+*   {{< resource_link 61e1fd4a-1e9e-3783-5cc4-8b3cb65e4c71 "Infusing the Course with Multiple Voices" >}}
+*   {{< resource_link 14fa2451-e10b-a6b3-0aba-adfbf955056f "Teaching Students how to be Scholars" >}}
 
 Curriculum Information
 ----------------------
