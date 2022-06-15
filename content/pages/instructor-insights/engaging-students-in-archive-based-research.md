@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Anne McCants describes her motivation for developing
+  the archive-based research project students completed in the course. She also discusses
+  the risks and great benefits of assigning an open-ended research project.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

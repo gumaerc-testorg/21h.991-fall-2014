@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. McCants shares two strategies for ensuring that
+  students learn from each other and other historians during the course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

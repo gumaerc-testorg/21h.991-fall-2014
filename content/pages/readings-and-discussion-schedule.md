@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: The following section lists the readings assigned for each session along
+  with a schedule of discussion topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings and Discussion Schedule
 uid: 27b475ff-e089-aa88-09d8-65a0341aa2a5
 ---
@@ -45,7 +46,7 @@ No readings assigned.
 
 History and Place
 
-{{< resource_link bf351dc3-4c7e-4178-c5d0-7c5345bb2cf9 "History and Place History and Place Discussion Questions (PDF)" >}}
+{{% resource_link bf351dc3-4c7e-4178-c5d0-7c5345bb2cf9 "History and Place History and Place Discussion Questions (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -79,7 +80,7 @@ Hexter, J. H. "[Fernand Braudel and the Monde Braudellien...](http://www.jstor.o
 
 _Guest: [Prof. Jeff Ravel](https://history.mit.edu/people/jeffrey-s-ravel), MIT History Department_
 
-{{< resource_link 425d941b-a750-b4d5-8449-6ebf04593b92 "Discussion Questions from Prof. Ravel (PDF)" >}} (Courtesy of Jeffrey Ravel. Used with permission.)
+{{% resource_link 425d941b-a750-b4d5-8449-6ebf04593b92 "Discussion Questions from Prof. Ravel (PDF)" %}} (Courtesy of Jeffrey Ravel. Used with permission.)
 
 
 {{< tdclose >}}
@@ -117,7 +118,7 @@ History and Material Evidence
 
 _Guest: [Prof. William Broadhead](https://history.mit.edu/people/william-broadhead), MIT History Department_
 
-{{< resource_link 5713035b-25d9-ae4d-0a7d-67118be05f84 "Discussion Questions from Prof. Broadhead (PDF)" >}} (Courtesy of Will Broadhead. Used with permission.)
+{{% resource_link 5713035b-25d9-ae4d-0a7d-67118be05f84 "Discussion Questions from Prof. Broadhead (PDF)" %}} (Courtesy of Will Broadhead. Used with permission.)
 
 
 {{< tdclose >}}
@@ -235,7 +236,7 @@ Environmental History
 
 _Guest: [Prof. Anya Zilberstein](https://www.concordia.ca/artsci/history/faculty.html?fpid=anya-zilberstein), Concordia University History Department_
 
-{{< resource_link ebe77c76-b203-6b7d-acdb-5a3631e741c4 "Discussion Questions from Prof. Zilberstein (PDF)" >}} (Courtesy of Anya Zilberstein. Used with permission.)
+{{% resource_link ebe77c76-b203-6b7d-acdb-5a3631e741c4 "Discussion Questions from Prof. Zilberstein (PDF)" %}} (Courtesy of Anya Zilberstein. Used with permission.)
 
 
 {{< tdclose >}}
@@ -270,7 +271,7 @@ _Guest: [Prof. JoAnne Yates](https://mitsloan.mit.edu/faculty/directory/joanne-y
 
 JoAnne, Yates, and Craig Murphy. _Control through Communication: The Rise of System in American Management_. Johns Hopkins University Press, 1993. ISBN: 9780801846137. \[Preview with [Google Books](http://books.google.com/books?id=RaeJbtZFP0EC&printsec=frontcover)\]
 
-———. {{< resource_link 01de4123-4035-e3e2-09f2-714d78d4a40c "\"The Role of Firms in Industrial Standards Setting: Participation, Process and Balance.\" (PDF)" >}} (Courtesy of JoAnne Yates and Craig Murphy. Used with permission.)
+———. {{% resource_link 01de4123-4035-e3e2-09f2-714d78d4a40c "\"The Role of Firms in Industrial Standards Setting: Participation, Process and Balance.\" (PDF)" %}} (Courtesy of JoAnne Yates and Craig Murphy. Used with permission.)
 
 
 {{< tdclose >}}
