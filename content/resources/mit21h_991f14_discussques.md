@@ -5,6 +5,7 @@ file: /courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/eb
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Discussion Schedule
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Environmental History Discussion Questions by Anya Zilberstein
 uid: ebe77c76-b203-6b7d-acdb-5a3631e741c4
 ---
 Discussion questions on the study of environmental history.
-

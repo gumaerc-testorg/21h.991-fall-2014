@@ -6,6 +6,7 @@ file: /courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/42
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Discussion Schedule
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Study Questions for 9/17: "Eighteenth-Century French Political Culture a
 uid: 425d941b-a750-b4d5-8449-6ebf04593b92
 ---
 Handout accompanying a class session on the study of Enlightenment and Revolutionary France.
-

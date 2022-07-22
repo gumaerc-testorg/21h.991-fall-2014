@@ -6,6 +6,7 @@ file: /courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/57
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Discussion Schedule
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Things to think about: History and Material Culture: Questions from Will
 uid: 5713035b-25d9-ae4d-0a7d-67118be05f84
 ---
 Discussion questions for a reading on houses and society in Pompeii and Herculaneum.
-
