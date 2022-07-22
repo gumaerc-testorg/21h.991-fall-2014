@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, grading, and the schedule of course topics and assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 22f15593-ee8d-8ceb-a068-46017e1a0c18
 ---
@@ -81,7 +86,7 @@ History and Place
 {{< tdopen >}}
 
 
-18th c. Political Culture and 21st c. Digital Humanities
+18{{< sup "th" >}} c. Political Culture and 21{{< sup "st" >}} c. Digital Humanities
 
 _Guest: Prof. Jeff Ravel_
 
