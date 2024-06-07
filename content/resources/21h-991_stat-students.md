@@ -2,6 +2,7 @@
 content_type: resource
 description: Image showing the approximate number of students enrolled in the course.
 file: /courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/a37a3cd3ade370e4bdf63be845dedc7e_21H-991_stat-students.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''
