@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout accompanying a class session on the study of Enlightenment and
   Revolutionary France.
-file: /courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/425d941ba750b4d584496ebf04593b92_MIT21H_991F14_StudyQues.pdf
+file: /ol-ocw-studio-app/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/425d941ba750b4d584496ebf04593b92_MIT21H_991F14_StudyQues.pdf
 file_size: 157721
 file_type: application/pdf
 learning_resource_types:
