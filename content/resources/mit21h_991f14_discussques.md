@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discussion questions on the study of environmental history.
-file: /ol-ocw-studio-app/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/ebe77c76b2036b7dacdb5a3631e741c4_MIT21H_991F14_DiscussQues.pdf
+file: /courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/ebe77c76b2036b7dacdb5a3631e741c4_MIT21H_991F14_DiscussQues.pdf
 file_size: 94020
 file_type: application/pdf
 learning_resource_types:
