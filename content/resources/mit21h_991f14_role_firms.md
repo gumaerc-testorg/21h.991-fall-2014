@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Article on the role of firms in industrial standards setting.
-file: /ol-ocw-studio-app/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/01de41234035e3e209f2714d78d4a40c_MIT21H_991F14_Role_Firms.pdf
+file: /courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/01de41234035e3e209f2714d78d4a40c_MIT21H_991F14_Role_Firms.pdf
 file_size: 1088001
 file_type: application/pdf
 learning_resource_types:
