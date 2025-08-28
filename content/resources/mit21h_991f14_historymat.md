@@ -2,7 +2,7 @@
 content_type: resource
 description: Discussion questions for a reading on houses and society in Pompeii and
   Herculaneum.
-file: /courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/5713035b25d9ae4d0a7d67118be05f84_MIT21H_991F14_HistoryMat.pdf
+file: /ol-ocw-studio-app/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/5713035b25d9ae4d0a7d67118be05f84_MIT21H_991F14_HistoryMat.pdf
 file_size: 236651
 file_type: application/pdf
 learning_resource_types:
