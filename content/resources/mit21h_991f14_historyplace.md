@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discussion questions for assigned readings on Mediterranean Europe.
-file: /courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/bf351dc34c7e4178c5d07c5345bb2cf9_MIT21H_991F14_HistoryPlace.pdf
+file: /ol-ocw-studio-app/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2014/bf351dc34c7e4178c5d07c5345bb2cf9_MIT21H_991F14_HistoryPlace.pdf
 file_size: 148650
 file_type: application/pdf
 learning_resource_types:
